@@ -1,8 +1,5 @@
 <h2 align="left">About Me</h2>
-
 ###
-
-<p align="left">My name is Danilo and my purpose here is forward my recents projects. I hope you enjoy it</p>
 🎓 IT Technician Graduate | 💻 Computer Engineering Student <br>
 🧠 Front-End: HTML5 • CSS3 • Bootstrap • JavaScript • jQuery <br>
 🛠️ Back-End: PHP • Laravel • MySQL • Python  <br>
