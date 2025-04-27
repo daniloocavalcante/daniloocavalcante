@@ -1,9 +1,10 @@
 # 👋 Welcome to my GitHub!
 
 Desde cedo, a tecnologia sempre fez parte da minha vida. Sou apaixonado por tecnologia, programação, afim de resolver problemas através de soluções mágicas 🧑🏻‍💻
-Atualmente, sou **estudante de Engenharia da Computação** e **técnico em Informática formado**, buscando constantemente aprimorar minhas habilidades tanto no desenvolvimento front-end quanto back-end.
-Estou sempre em busca de novos aprendizados e gosto de participar de projetos que desafiem minhas habilidades e me ajudem a crescer ainda mais! 🚀
 
+Atualmente, sou **estudante de Engenharia da Computação** e **técnico em Informática formado**, buscando constantemente aprimorar minhas habilidades tanto no desenvolvimento front-end quanto back-end.
+
+Estou sempre em busca de novos aprendizados e gosto de participar de projetos que desafiem minhas habilidades e me ajudem a crescer ainda mais! 🚀
 
 ## My Tech Stack
 
