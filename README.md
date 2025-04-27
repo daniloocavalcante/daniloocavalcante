@@ -8,17 +8,6 @@ Estou sempre em busca de novos aprendizados e gosto de participar de projetos qu
 
 ---
 
-## About Me
-
-🎓 **IT Technician Graduate** | 🎓 **Computer Engineering Student**  
-💻 **Front-End**:  
-&nbsp;&nbsp;&nbsp;&nbsp;HTML5 • CSS3 • Bootstrap • JavaScript • jQuery  
-⚙️ **Back-End**:  
-&nbsp;&nbsp;&nbsp;&nbsp;PHP • Laravel • MySQL • Python  
-🖲 **Tools**:  
-&nbsp;&nbsp;&nbsp;&nbsp;Git • GitHub
-
----
 
 ## My Tech Stack
 
