@@ -38,9 +38,9 @@ Estou sempre motivado a aprender novas tecnologias e contribuir para projetos em
 <!-- Uncomment these lines if you want to show your GitHub stats -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsernameAqui&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniloocavalcante&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsernameAqui&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloocavalcante&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 
