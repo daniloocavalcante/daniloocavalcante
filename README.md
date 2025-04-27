@@ -29,16 +29,3 @@ Estou sempre em busca de novos aprendizados e gosto de participar de projetos qu
   <img src="https://github-readme-stats.vercel.app/api?username=daniloocavalcante&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloocavalcante&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
-
-### Let's Connect!
-
-<!-- Uncomment and customize if you want to add social links -->
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-cavalcante-468793362/)](https://www.linkedin.com/in/danilo-cavalcante-468793362/)
-[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@DaniloCavalcanteCode)](https://www.youtube.com/@DaniloCavalcanteCode)
-
-
-<!-- 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&link=https://SeuPortfolioAqui.com/)](https://SeuPortfolioAqui.com/)
--->
