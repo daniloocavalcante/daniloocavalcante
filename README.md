@@ -24,7 +24,7 @@ Estou sempre em busca de novos aprendizados e gosto de participar de projetos qu
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="50" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
   <img src="https://camo.githubusercontent.com/730577f274566576ff88e28ea042fea703254659dd140c5478ce1423f07f4855/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="50" height="50" alt="PHP" />
   <img src="https://camo.githubusercontent.com/697c027ebbdcdca63b3f959f7e9594ff1a47fd2c6506c4af995d9ed8ee768060/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="50" height="50" alt="Laravel" />
