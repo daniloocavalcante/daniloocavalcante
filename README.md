@@ -1,9 +1,10 @@
 # 👋 Welcome to my GitHub!
 
-Sou apaixonado por tecnologia, programação e por resolver problemas através de soluções inovadoras.  
+Desde cedo, a tecnologia sempre fez parte da minha vida. Sou apaixonado por tecnologia, programação, afim de resolver problemas através de soluções mágicas 🧑🏻‍💻
+
 Atualmente, sou **estudante de Engenharia da Computação** e **técnico em Informática formado**, buscando constantemente aprimorar minhas habilidades tanto no desenvolvimento front-end quanto back-end.
 
-Estou sempre motivado a aprender novas tecnologias e contribuir para projetos empolgantes! 🚀
+Estou sempre em busca de novos aprendizados e gosto de participar de projetos que desafiem minhas habilidades e me ajudem a crescer ainda mais! 🚀
 
 ---
 
@@ -25,8 +26,8 @@ Estou sempre motivado a aprender novas tecnologias e contribuir para projetos em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50" alt="Laravel" />
+  <img src="https://camo.githubusercontent.com/730577f274566576ff88e28ea042fea703254659dd140c5478ce1423f07f4855/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706870" width="50" height="50" alt="PHP" />
+  <img src="https://camo.githubusercontent.com/697c027ebbdcdca63b3f959f7e9594ff1a47fd2c6506c4af995d9ed8ee768060/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c61726176656c" width="50" height="50" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
 </div>
