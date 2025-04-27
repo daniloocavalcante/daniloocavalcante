@@ -49,5 +49,8 @@ Estou sempre motivado a aprender novas tecnologias e contribuir para projetos em
 
 <!-- Uncomment and customize if you want to add social links -->
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SeuPerfilAqui/)](https://www.linkedin.com/in/SeuPerfilAqui/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-cavalcante-468793362/)](https://www.linkedin.com/in/danilo-cavalcante-468793362/)
+
+<!-- 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&link=https://SeuPortfolioAqui.com/)](https://SeuPortfolioAqui.com/)
+-->
