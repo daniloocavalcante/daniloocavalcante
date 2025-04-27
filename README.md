@@ -6,8 +6,6 @@ Atualmente, sou **estudante de Engenharia da Computação** e **técnico em Info
 
 Estou sempre em busca de novos aprendizados e gosto de participar de projetos que desafiem minhas habilidades e me ajudem a crescer ainda mais! 🚀
 
----
-
 
 ## My Tech Stack
 
@@ -22,7 +20,6 @@ Estou sempre em busca de novos aprendizados e gosto de participar de projetos qu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
 </div>
 
----
 
 ## 📈 GitHub Stats
 
@@ -33,8 +30,6 @@ Estou sempre em busca de novos aprendizados e gosto de participar de projetos qu
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloocavalcante&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
-
----
 
 ### Let's Connect!
 
