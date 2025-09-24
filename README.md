@@ -29,5 +29,5 @@ Estou sempre em busca de novos aprendizados e gosto de participar de projetos qu
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daniloocavalcante&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloocavalcante&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloocavalcante&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
 </div>
