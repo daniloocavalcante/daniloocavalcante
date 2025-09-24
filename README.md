@@ -28,6 +28,7 @@ Estou sempre em busca de novos aprendizados e gosto de participar de projetos qu
 <!-- Uncomment these lines if you want to show your GitHub stats -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniloocavalcante&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloocavalcante&theme=tokyonight&show_icons=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniloocavalcante&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloocavalcante&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+  
 </div>
