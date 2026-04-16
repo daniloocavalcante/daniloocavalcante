@@ -7,6 +7,9 @@ Atualmente, sou **estudante de Engenharia da Computação** e **técnico em Info
 Estou sempre em busca de novos aprendizados e gosto de participar de projetos que desafiem minhas habilidades e me ajudem a crescer ainda mais! 🚀
 
 ## My Tech Stack
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr style="white-space: nowrap;">
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"></td>
