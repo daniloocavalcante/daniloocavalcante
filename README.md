@@ -7,7 +7,7 @@ Atualmente, sou **estudante de Engenharia da Computação** e **técnico em Info
 Estou sempre em busca de novos aprendizados e gosto de participar de projetos que desafiem minhas habilidades e me ajudem a crescer ainda mais! 🚀
 
 ## My Tech Stack
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"></td>
