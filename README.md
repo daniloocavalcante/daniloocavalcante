@@ -17,12 +17,10 @@ Estou sempre em busca de novos aprendizados e gosto de participar de projetos qu
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-
 ## 📈 GitHub Stats
 
-<!-- Uncomment these lines if you want to show your GitHub stats -->
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniloocavalcante&theme=dark&show_icons=true&hide_border=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloocavalcante&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=daniloocavalcante&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=daniloocavalcante&layout=compact&theme=dark&hide_border=false" alt="Top Languages"/>
 </div>
+
